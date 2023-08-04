@@ -1,0 +1,307 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+    background-color: black; 
+}
+.design{
+    padding-right: 200px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    
+}
+.navlink{
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    list-style-type: none;
+}
+.built{
+    padding-top: 20px;
+    padding-left: 100px;
+    font-size: xxx-large;
+    font-style: initial;
+}
+.onend{
+    padding-left: 100px;
+    font-family: Josefin Sans;
+    font-size: 30px;
+    font-style: normal;
+}
+.creations{
+    padding-top: 1%;
+    background-color: #B6F214;
+     height: 631px;
+    flex-shrink: 0;
+}
+.st{
+    padding-top: 13px;
+}
+.get{
+    display: flex;
+    gap: 10px;
+    box-sizing: border-box;
+    border: 3px solid white;
+    margin-right: 1000px;
+    margin-left: 100px;
+    padding-left: 50px;
+    background-color: aliceblue;
+}
+.slide{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 170px;
+}
+.picture{
+    margin-top: 226px;
+    padding-left: 170px;
+}
+.line{
+    text-align: center;
+    margin-top:40px ;
+    font-family: Josefin Sans;
+    font-size: 20px;
+    font-style: normal;
+}
+.para{
+    margin-left: 30px;
+    word-spacing: 5px;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 46px;
+    font-style: normal;
+}
+.po{
+    padding-top: 13px;
+}
+.op
+{
+    display: flex;
+    gap: 10px;
+    box-sizing: border-box;
+    border: 3px solid #B6F214;
+    justify-content: center;
+    margin-left: 520px;
+    margin-right: 520px;
+    background-color: #B6F214;
+}
+.free{
+    
+}
+.texture{
+    background-color: black;
+    height: 550px;
+}
+.services{
+    color: aliceblue;
+    padding-top: 40px;
+    text-align: center;
+}
+.provide{
+    color: aliceblue;
+    padding-left: 290px;
+    font-size: xxx-large;
+    word-spacing: 10px;
+}
+.all{
+    display:flex ;
+    justify-content: space-around;
+    font-family: Work Sans;
+    font-size: 26px;
+    font-style: normal;
+    padding-top: 30px;
+}
+.cover{
+    color:white;
+    
+}
+.hower{
+    color:white;
+}
+.web{
+    font-size: x-large;
+    padding-bottom: 30px;
+}
+.zz{
+    height: 10%;
+    padding-top: 20px;
+}
+.al{
+    display: flex;
+    gap: 20px;
+}
+.bb{
+    display: flex;
+    gap: 20px;
+}
+.xx{
+    height: 10%;
+    padding-top: 20px;
+}
+.strategy{
+    font-size: x-large;
+}
+.cc{
+    display: flex;
+    gap: 20px;
+}
+.vv{
+    height: 10%;
+    padding-top:40px;
+}
+.digital{
+    font-size: x-large;
+    padding-top: 30px;
+}
+.dd{
+    display: flex;
+    gap: 20px;
+}
+.nn{
+    height: 10%;
+    padding-top: 20px;
+}
+.branded{
+    font-size: x-large;
+}
+.ff{
+    display: flex;
+    gap: 10px;
+}
+.mm{
+    height: 10%;
+    padding-top:50px ;
+}
+.photography{
+    font-size: x-large;
+    padding-top: 30px;
+}
+.gg{
+    display: flex;
+    gap: 10px;
+}
+.ll{
+    height: 10%;
+    padding-top: 50px;
+}
+.ar{
+    font-size: x-large;
+    padding-top: 30px;
+}
+.work{
+    font-size: xxx-large;
+    padding-left: 10px;
+    padding-top: 70px;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+.pic{
+    padding-right: 5px;
+    padding-top: 100px;
+}
+.img bar{
+       background-color: #B6F214;
+}
+.sphere{
+    padding-left: 5px;
+}
+.start{
+    background-color: #B6F214;
+    height:400px;
+}
+.le{
+    display: flex;
+    padding-left: 50px;
+    
+}
+.project{
+    padding-top:40px; 
+    padding-left: 30px;   
+}
+.stand{
+    padding-left: 130px;
+}
+.together{
+     padding-top: 70px;
+     padding-right: 10px;
+     padding-left: 100px;
+     font-family: Work Sans;
+     font-size: 50px;
+     font-style: normal;
+}
+.frame{
+     padding-top: 12px;
+}
+.intouch{
+       display: flex;
+       justify-content: center;
+       gap: 10px;
+       box-sizing: border-box;
+       border: 4px solid white;
+       padding-right:10px;
+       margin-left: 500px;
+       margin-right: 560px;
+       background-color: aliceblue;
+}
+.touch{
+}
+.brand{
+    padding-right: 100px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: large;
+    font-family: Josefin Sans;
+    font-style: normal;
+}
+.sponcer{
+     padding-top: 20px;
+     padding-left: 30px;
+    width: 220px;
+    height: 75px;
+    flex-shrink: 0;
+    display: flex;
+    gap: 10px;
+}
+.last{
+    background-color: black;
+    margin-top: 70px;
+    height: 510px;
+
+}
+.solution{
+    padding-top: 80px;
+    padding-left: 80px;
+    
+}
+.spring{
+    padding-top: 70px;
+}
+.tif{
+    padding-left: 120px;
+    padding-top: 30px;
+}
+.list{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    padding-left: 100px;
+    font-size: larger;
+    gap: 20px;
+}
+.reserved{
+    display:flex;
+
+}
+.right{
+    color: aliceblue;
+    padding: 60px;
+    padding-left: 350px;
+}
+
